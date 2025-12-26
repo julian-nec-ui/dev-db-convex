@@ -252,7 +252,7 @@ button {
 
 @media (prefers-color-scheme: dark) {
   .chat form {
-    background-color: rgba(55, 65, 81, 0.8);
+    background-color: rgba(120, 200,241, 0.9);
   }
 }
 
@@ -279,7 +279,7 @@ button {
   }
 
   .chat input::placeholder {
-    color: #9ca3af;
+    color: #000000;
   }
 }
 
